@@ -1,0 +1,15 @@
+Dimension of the batch: 20
+Number of epochs: 10
+
+Accuracy achieved: 0.9570552147239264
+
+               precision    recall  f1-score   support
+           0       0.92      0.53      0.67       124
+           1       0.63      0.94      0.75       103
+    accuracy                           0.72       227
+   macro avg       0.77      0.74      0.71       227
+weighted avg       0.78      0.72      0.71       227
+
+Confusion matrix for Skin Cancer, without normalization: 
+ [[83 41]
+ [13 90]]
